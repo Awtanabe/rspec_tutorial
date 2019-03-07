@@ -17,10 +17,10 @@ https://qiita.com/yusabana/items/db44b81bdddf6ed0e9f5
 1. $ gem "rspec", ">= 3.0.0"
 2. $ bundle exec rspec --init
 
-
 ## memo
 
-Rspqc might be super impoetrnt.
+- ファイルの読み込み
 
-You would understand basic rogic of application at company where you join  throw Rspec.
-
+```ruby
+  require_relative '../lib/hello'
+```
