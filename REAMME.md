@@ -8,20 +8,14 @@ https://www.tutorialspoint.com/rspec/rspec_matchers.htm
 
 Rspec is conposed of three points.
 
+# setteing
 
-1 statement
+記事
+https://qiita.com/yusabana/items/db44b81bdddf6ed0e9f5
 
-ex. describe  it  and so on
-
-2 evaluate
-
-ex. eq be be_instance_of
-
-3 method of defining variable
- 
-ex. before let
-
-you can do with Rspec taking just three points.
+# 手順
+1. $ gem "rspec", ">= 3.0.0"
+2. $ bundle exec rspec --init
 
 
 ## memo
